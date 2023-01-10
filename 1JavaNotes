@@ -99,6 +99,3 @@ Decimal number is 0,1,2,3,4,5,6,7,8,9.
 binary number is 0,1.
 
 java is zero index base language therefore it always start with index 0;
-
-What is Array: 
-Array is non Primitive datatype. its object which containq similar datatype. all the element are stored in contiguous memory location.

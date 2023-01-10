@@ -1,4 +1,18 @@
-Linear search: 
+Linear search: we find a number in any datastructure
 
 Binary search: we find a number in any sorted datastructure
-find a number in sorted array
+find a key in sorted array
+
+
+What is Array: 
+Array is non Primitive datatype. its object which contain similar datatype. all the element are stored in contiguous memory location.eg
+
+What is sorting:
+Sorting is basically arrange in an order
+eg; Increasing order, decreasing order, etc
+
+Basic sorting technique :
+Bubble sort
+Selection sort
+Insertion sort
+Counting sort(Advance)

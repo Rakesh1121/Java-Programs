@@ -1,3 +1,4 @@
+//Array is list of element of the same datatype placed in a contiguous memory location.
 package ArrayPrograms;
 import java.util.Scanner;
 

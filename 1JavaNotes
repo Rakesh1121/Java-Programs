@@ -28,7 +28,7 @@ long : 8 byte in long we use l at the end of interger
 float: 4 byte in float we use f at the end of integer
 double: 8 byte in double we use d at the end of integer
 char: 2 byte
-bolean: 1byte
+bollean: 1byte
 
 
 Non-Primitive Datatype: String, class, array, object, interface
@@ -92,7 +92,7 @@ main is function
 function store in stack format. at the bottom there is main function then there is function which is we created for call.
 java Funtion work on call by value because its pass duplicate value. but Java does not use call by reference it pass original value.
 
-Funtion Orerloading: Multiple Function with the same name but different parameter(parameter in term of dataype or in term of no of parameter) overloading does not depends on return type
+Funtion Overloading: Multiple Function with the same name but different parameter(parameter in term of dataype or in term of no of parameter) overloading does not depends on return type
 
 
 Decimal number is 0,1,2,3,4,5,6,7,8,9.

@@ -1,0 +1,42 @@
+OOP: Object Oriented Progarmming
+
+Access modifier/specifier: (isse pata chalega ki konsa data kisi accessible hoga)
+ there are three type of Access modifier
+ Default: with in class and within the package
+ Public: all and outside of package
+ Protected: with in class, within packages and outside package by subclass only
+ private: only with in class
+
+ Get: to return the value:getters
+ Set: to modify the value:setters  
+ this: this keyword is used to refer to the current object. 
+
+ Constructors:
+ constructor is a special method which is invoked automatically at the time of object creation.
+
+ .constructor have the same name as class or structure.
+ .constructor don't have a return type.(not even void)
+ .constructor are only called once, at object creation.
+ .Memory allocation happens when constructor is called.
+ 
+ eg: Pen p1 = new Pen(); //here the Pen() is constructor.
+
+ there are three type of constructor
+ non-parameterized 
+ parameterized
+ copy parameterized
+
+ constructor overloading: multiple function with a same name but different in argument or no of arrgument.
+
+
+
+Encapsulation: Encapsulation is defined as wrapping up of data and method under a single unit. 
+it also implements data hiding.
+
+the basic meaning of encaplation is wrapping up a data and method into a single entities
+
+Inheritance: 
+
+Abstraction:
+
+Polymorphism:

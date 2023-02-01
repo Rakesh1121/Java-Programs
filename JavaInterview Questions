@@ -21,11 +21,11 @@ What is interference in java.
 
 difference between interpeter and compiler.
 there major difference between interpeter and compiler is
-the interpeter is exceture only one statement at a time 
+the interpeter is execute only one statement at a time
 and compiler is compile the whole code at a one time.
 
 What is inheritence in java.
-The Propertys and method of parents class inherit to child class 
+The Property and method of parents class inherit to child class
 
 type of inheritence in java.
 there are three type: Single, Multilevel and herarcial

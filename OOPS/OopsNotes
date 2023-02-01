@@ -1,5 +1,18 @@
 OOP: Object Oriented Progarmming
 
+what is classes: the classes is the collection of objects 
+what is object: the object is the real world entity like a pen, student, etc.
+eg:
+//the name of class should be start with the captial letter and in function we start the function name with the small letter
+class Student{
+    String name;
+    int roll;
+
+    void Setname(Student s1){
+        this.name = name;
+    }
+}    
+
 Access modifier/specifier: (isse pata chalega ki konsa data kisi accessible hoga)
  there are three type of Access modifier
  Default: with in class and within the package
@@ -35,7 +48,11 @@ it also implements data hiding.
 
 the basic meaning of encaplation is wrapping up a data and method into a single entities
 
-Inheritance: 
+Inheritance: Inheritance is when properties and methods of base class are passed on to a derived class.
+type of the Inheritance:
+1)Single
+2)Multilevel
+3)hierarchical
 
 Abstraction:
 

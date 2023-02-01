@@ -16,7 +16,6 @@ public class Constructor {
         Student s2 = new Student();
         s2.password = "xyz";
     }
-    
 }
 
 class Student{

@@ -1,0 +1,32 @@
+---Java Interview question--
+
+What is Package in java.
+Package is group of similar type of classes, interface and subpackages. there are two type of package
+1.User defined package
+2.Built-in package
+Example of package: 
+
+Why java is platform independent.
+Java is platform-independent because it uses a virtual machine. The Java programming language and all APIs are compiled 
+into bytecodes. Bytecodes are effectively platform-independent.
+The virtual machine takes care of the differences between the bytecodes for the different platforms
+
+What is garbage collection in java.
+The Garbage collection in java is a automated process of deleting a code that's no longer needed or used.
+This automatically frees up memory space and ideally makes coding Java apps easier for developers. 
+Java applications are compiled into bytecode that may be executed by a JVM
+
+What is interference in java.
+
+
+difference between interpeter and compiler.
+there major difference between interpeter and compiler is
+the interpeter is exceture only one statement at a time 
+and compiler is compile the whole code at a one time.
+
+What is inheritence in java.
+The Propertys and method of parents class inherit to child class 
+
+type of inheritence in java.
+there are three type: Single, Multilevel and herarcial
+

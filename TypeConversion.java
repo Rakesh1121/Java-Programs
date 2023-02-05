@@ -2,11 +2,11 @@ public class TypeConversion {
     public static void main(String[] args) {
         float a = 34.0f;
         int b = (int) a; //here we used type casting
-        System.out.println(b);// in type casting we loss our data After of the decimal eg = 4.56 become 4
+        System.out.println("The value of integer: "+b);// in type casting we loss our data After of the decimal eg = 4.56 become 4
 
         int c = 24;
         float d = c; //int can convert into float but float cannot be convert into a int
-        System.out.println(d);
+        System.out.println("The value of float:"+d);
 
         char ch = 'a';
         int number = ch;

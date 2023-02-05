@@ -26,7 +26,12 @@ and compiler is compile the whole code at a one time.
 
 What is inheritence in java.
 The Property and method of parents class inherit to child class
+keyword used for inheritence: extends
 
 type of inheritence in java.
 there are three type: Single, Multilevel and herarcial
+
+difference between system.out.println and system.out.print.
+println print on the next line
+and print print on same line
 

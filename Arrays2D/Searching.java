@@ -2,6 +2,19 @@ package Arrays2D;
 import java.util.Scanner;
 
 public class Searching {
+    public static boolean searchkey1(int matrix[][], int key){
+
+        for(int i=0; i<matrix.length; i++){
+            for(int j=0; j<matrix.length; j++){
+                if(key == matrix[i][j]){
+                    System.out.println("The key is found at the cell: "+ i + ", " + j);
+                    return true;
+                }
+            }
+        }
+        System.out.println(" the key is not found.");
+        return false;
+    }
     public static boolean searchkey(int martix[][], int key){
 
         for(int i=0; i<martix.length; i++){
